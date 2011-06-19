@@ -1,0 +1,7 @@
+Java Project to simulate the transmition of quantum bits.
+
+Implementation of BB84 protocol.
+
+Project purpose is to generate and share private keys so a key manager cand make use of them.
+
+Operating System of simulator (ANY).
